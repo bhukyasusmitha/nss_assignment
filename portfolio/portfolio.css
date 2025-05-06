@@ -1,0 +1,92 @@
+a {
+    font-size: 30px ;
+    color: rgb(23, 6, 99) ;
+    text-decoration: none ;
+}
+a:hover {
+    color:black ; 
+}
+#reference {
+    text-align: center;
+}
+#a {
+    margin-right: 20px;
+}
+#b {
+ margin-right: 20px ; 
+}
+.info {
+   transform: translate(600px , 0px );
+    font-size: 30px ;
+    color: rgb(33, 9, 91);
+}
+#c {
+    text-align: center;
+    font-size: 40px;
+    color:rgb(100, 6, 42) ;
+}
+#form {
+    transform: translate(580px , 50px );
+    text-align: center;
+    border: 2px solid #000;     /* black border */
+    padding: 20px;              /* space inside the border */
+    border-radius: 10px;        /* rounded corners (optional) */
+    width: 500px; 
+    height: 300px;              /* optional: fixed width */
+  }
+.label {
+ color: rgb(5, 24, 154);
+ font-size: 30px ;
+  }
+#sendername , #senderemail,  #message {
+    height: auto;
+    font-size: larger;
+}
+#but {
+    margin-top: 2%;
+ font-size: larger;
+}
+#p {
+    text-align: center;
+    font-size: 40px ;
+    color: rgb(28, 10, 94);
+}
+#photo {
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+#li {
+    transform: translate(200px,10px);
+    margin-top: 5%;
+    font-size: 30px ;
+    color: rgb(220, 9, 9);
+
+}
+#y , #x , #z {
+    font-size: 30px;
+    text-align: center;
+    transform: translate(0px ,50px);
+}
+.introduction{
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: #741c2d;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    width: 60%;
+    margin: 40px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  .profpic {
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid #325ab1;
+    margin-bottom: 15px;
+  }
+  #s{
+    font-style: italic;
+    color: #701212;
+  }
+  
